@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ff6deb-e348-4cff-ad24-21b74f3b962b" name="Changes" comment="Creando el esqueleto de la clase conjunto y test conjunto" />
+    <list default="true" id="48ff6deb-e348-4cff-ad24-21b74f3b962b" name="Changes" comment="Caso 3: Calcular promedio con un conjunto de dos elementos (Verde)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -32,12 +35,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in TestConjunto.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in TestConjunto.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="KATATDD" />
       <option name="ENV_FILES" value="" />
@@ -60,6 +64,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in TestConjunto.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="KATATDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TEST" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TEST/TestConjunto.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in TestConjunto.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -93,12 +117,74 @@
       <option name="project" value="LOCAL" />
       <updated>1729026828166</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="CASO 1 Calcular promedio con conjunto vacio">
+      <option name="closed" value="true" />
+      <created>1729027107930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027107930</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CASO 1 Calcular promedio con conjunto vacio (verde)">
+      <option name="closed" value="true" />
+      <created>1729027237319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027237319</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CASO 2 : calcular promedio con un elemento vacio (rojo)">
+      <option name="closed" value="true" />
+      <created>1729027407890</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027407890</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CASO 2 : calcular promedio con un elemento vacio (rojo)">
+      <option name="closed" value="true" />
+      <created>1729027513974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027513974</updated>
+    </task>
+    <task id="LOCAL-00007" summary="correccion">
+      <option name="closed" value="true" />
+      <created>1729027668852</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027668852</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729027757488</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027757488</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Caso 3: Calcular promedio con un conjunto de dos elementos (Verde)">
+      <option name="closed" value="true" />
+      <created>1729027884102</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027884102</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuracion Inicial del Proyecto KataTDD" />
     <MESSAGE value="Creando el esqueleto de la clase conjunto y test conjunto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando el esqueleto de la clase conjunto y test conjunto" />
+    <MESSAGE value="CASO 1 Calcular promedio con conjunto vacio" />
+    <MESSAGE value="CASO 1 Calcular promedio con conjunto vacio (verde)" />
+    <MESSAGE value="CASO 2 : calcular promedio con un elemento vacio (rojo)" />
+    <MESSAGE value="correccion" />
+    <MESSAGE value="Caso 3: Calcular promedio con un conjunto de dos elementos (Rojo)" />
+    <MESSAGE value="Caso 3: Calcular promedio con un conjunto de dos elementos (Verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 3: Calcular promedio con un conjunto de dos elementos (Verde)" />
   </component>
 </project>
